@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.1" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="32" tileheight="32" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" source="mountain_landscape.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzzZ2Bg8B/FNMHYANsA288wav+o/SPE/uGIbYDYFojtBsh+HyD2BWK/AXJfDBDHAnEcme6jNSbkvlE8vPFgz5+0xqPpfxSP4lE8iocGBgBFzS7q
+  </data>
+ </layer>
+ <layer id="2" name="topLayer" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt0jkOAjEMheGw9qw9a8/as7Yj1p4Z4AZwAzg3/wEIoMh4pnCkr4rjZ1mJnHORMRmRQx4FFFFCWTG/gipqqKOBpmJ+C2100EUPfU/tDXfh/AGGGGGMCaae2geewvkzzLHAEiusA3v5zqc3G2yxwx4HHBXzT4iR4IwLror5Ev2/Hcn/8usc0pkhe0hrhnf3ae3gXzNoZITu3hhjjMmaFwECHR8=
+  </data>
+ </layer>
+</map>

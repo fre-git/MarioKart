@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.1" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="32" tileheight="32" infinite="0" nextlayerid="4" nextobjectid="21">
+ <objectgroup id="2" name="wall">
+  <object id="5" x="14.9708" y="16.8421" width="920.702" height="43.0409"/>
+  <object id="6" x="896.374" y="24.3275" width="39.2982" height="593.216"/>
+  <object id="7" x="707.368" y="583.86" width="222.69" height="26.1988"/>
+  <object id="10" x="170.292" y="162.807" width="340.585" height="284.444"/>
+  <object id="11" x="669.942" y="318.129" width="33.6842" height="278.83"/>
+  <object id="13" x="482.807" y="160.936" width="316.257" height="28.0702"/>
+  <object id="14" x="784.094" y="196.491" width="20.5848" height="316.257"/>
+  <object id="16" x="7.48538" y="578.246" width="694.269" height="26.1988"/>
+  <object id="17" x="14.9708" y="18.7135" width="14.9708" height="576.374"/>
+ </objectgroup>
+ <objectgroup id="3" name="player">
+  <object id="18" x="424.795" y="-97.3099"/>
+  <object id="19" x="72.9825" y="233.918" width="22.4561" height="44.9123"/>
+  <object id="20" x="540.819" y="-102.924"/>
+ </objectgroup>
+</map>
